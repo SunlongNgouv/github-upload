@@ -171,3 +171,51 @@ body
     background: #fff;
     padding: 40px;
 }
+.about
+{
+    margin-bottom: 0;
+}
+.title2
+{
+    color: #003147;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+p
+{
+    color: #333;
+}
+.about .box
+{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+.about .box .year_company
+{
+    min-width: 190px;
+}
+.about .box .year_company h4
+{
+    color: #049ae0;
+}
+.about .box .year_company h5
+{
+    color: #969c9f;
+}
+.about .box .year_company h6
+{
+    color: #969c9f;
+}
+.job_details h4
+{
+    color: #049ae0;
+    font-size: 16px;
+}
+.job_details ul li p
+{
+    color:#081921;
+    font-size: 13px;
+    font-weight: 500;
+}
